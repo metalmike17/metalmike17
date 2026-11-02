@@ -43,8 +43,8 @@ Each fix is easy once you know it. Finding it is the hard part, so I'm building 
 ## 🔧 ProtonMD
 
 <p>
-  <a href="https://github.com/metalmike17/protonmd"><img alt="ProtonMD" src="https://img.shields.io/badge/ProtonMD-v0.1.1-1c3d5a?style=for-the-badge"></a>
-  <img alt="License" src="https://img.shields.io/badge/license-GPL--3.0-blue?style=for-the-badge">
+  <a href="https://github.com/metalmike17/protonmd"><img alt="ProtonMD" src="https://img.shields.io/badge/ProtonMD-v0.1.1-FF2BD6?style=for-the-badge&labelColor=0D0F14"></a>
+  <img alt="License" src="https://img.shields.io/badge/license-GPL--3.0-00C8D6?style=for-the-badge&labelColor=0D0F14">
 </p>
 
 **[ProtonMD](https://github.com/metalmike17/protonmd)** is a doctor for your Linux games. Point it at your
@@ -63,6 +63,52 @@ show you the exact command and ask first.
 
 **Got a game that won't run, or a fix you wish a tool would catch?**
 [Open an issue](https://github.com/metalmike17/protonmd/issues/new/choose). New checks are the best way to help.
+
+<img src="assets/divider.svg" width="100%" alt="">
+
+## 👻 GHOSTWIRE
+
+<p>
+  <a href="https://github.com/metalmike17/Ghostwire-OSINT/releases/latest"><img alt="GHOSTWIRE" src="https://img.shields.io/github/v/release/metalmike17/Ghostwire-OSINT?style=for-the-badge&labelColor=0D0F14&color=FF2BD6&label=GHOSTWIRE"></a>
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-00C8D6?style=for-the-badge&labelColor=0D0F14">
+</p>
+
+**[GHOSTWIRE](https://github.com/metalmike17/Ghostwire-OSINT)** is every OSINT tool you actually use, in one neon-lit
+desktop cockpit. Pick a module, fill in a target, hit **Start**, and watch the results stream in. No flags to
+remember and no copy-pasting between terminals.
+
+<p align="center">
+  <a href="https://github.com/metalmike17/Ghostwire-OSINT"><img src="https://raw.githubusercontent.com/metalmike17/Ghostwire-OSINT/main/docs/screenshot.png" width="620" alt="GHOSTWIRE desktop app"></a>
+</p>
+
+- 🔎 **12 modules**: username, email, phone, Instagram, domain, IP, Wayback, metadata, GitHub, network, breach and crawl
+- 📦 Downloads for **Linux** (AppImage, deb, rpm, Flatpak), plus experimental **Windows** and **macOS** builds
+- 🔓 Free and open source under MIT, using public sources only
+
+**[⬇️ Download GHOSTWIRE](https://github.com/metalmike17/Ghostwire-OSINT/releases/latest)**
+
+<img src="assets/divider.svg" width="100%" alt="">
+
+## 🎬 termanim
+
+<p>
+  <a href="https://github.com/metalmike17/termanim/releases/latest"><img alt="termanim" src="https://img.shields.io/github/v/release/metalmike17/termanim?style=for-the-badge&labelColor=0D0F14&color=00C8D6&label=termanim"></a>
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-FF2BD6?style=for-the-badge&labelColor=0D0F14">
+</p>
+
+**[termanim](https://github.com/metalmike17/termanim)** gives your terminal an entrance. On KDE Plasma (Wayland),
+terminal windows fall, bounce, slingshot, glitch or fade into place instead of just appearing, and one hotkey
+summons a drop-down terminal with the same animations.
+
+<p align="center">
+  <a href="https://github.com/metalmike17/termanim"><img src="https://raw.githubusercontent.com/metalmike17/termanim/main/media/demo.gif" width="620" alt="termanim demo"></a>
+</p>
+
+- 🎞️ **11 animations**: gravity, paddle, slingshot, glitch, fade, slide, shake, pendulum, orbit, yoyo and random
+- ⌨️ **F12** drop-down terminal, with a GTK4 + libadwaita settings window
+- 📦 Available as a release tarball and an **AUR** package (`PKGBUILD` included)
+
+**[⬇️ Get termanim](https://github.com/metalmike17/termanim/releases/latest)**
 
 <img src="assets/divider.svg" width="100%" alt="">
 
