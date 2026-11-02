@@ -1,9 +1,24 @@
-<h1 align="center">Mike-Zer0</h1>
-<p align="center">
-  🛡️ CyberSec grad &amp; ethical hacker &nbsp;·&nbsp; 📸 Photographer &nbsp;·&nbsp; 🐧 CachyOS daily driver
-</p>
+<div align="center">
 
----
+<img src="assets/banner.svg" alt="Mike-Zer0: CyberSec, ethical hacker, photographer" width="100%">
+
+<br>
+
+<img alt="CachyOS" src="https://img.shields.io/badge/CachyOS-daily%20driver-00C8D6?style=for-the-badge&labelColor=0D0F14&logo=archlinux&logoColor=white">
+<img alt="Location" src="https://img.shields.io/badge/Wilmington%2C%20NC-FF2BD6?style=for-the-badge&labelColor=0D0F14&logo=googlemaps&logoColor=white">
+<a href="https://github.com/metalmike17?tab=repositories"><img alt="Repos" src="https://img.shields.io/badge/open%20source-3%20projects-00C8D6?style=for-the-badge&labelColor=0D0F14"></a>
+
+<br><br>
+
+### 🚀 Projects
+
+<a href="https://github.com/metalmike17/Ghostwire-OSINT"><img src="assets/card-ghostwire.svg" width="32%" alt="GHOSTWIRE"></a>
+<a href="https://github.com/metalmike17/protonmd"><img src="assets/card-protonmd.svg" width="32%" alt="ProtonMD"></a>
+<a href="https://github.com/metalmike17/termanim"><img src="assets/card-termanim.svg" width="32%" alt="termanim"></a>
+
+</div>
+
+<img src="assets/divider.svg" width="100%" alt="">
 
 ## 🎮 Why does my game work on Windows and crash on Linux?
 
@@ -22,6 +37,8 @@ The usual suspects:
 - 🛡️ **Anti-cheat.** Sometimes the answer really is "this one won't run", and knowing that saves hours.
 
 Each fix is easy once you know it. Finding it is the hard part, so I'm building a tool that finds it for you.
+
+<img src="assets/divider.svg" width="100%" alt="">
 
 ## 🔧 ProtonMD
 
@@ -47,15 +64,20 @@ show you the exact command and ask first.
 **Got a game that won't run, or a fix you wish a tool would catch?**
 [Open an issue](https://github.com/metalmike17/protonmd/issues/new/choose). New checks are the best way to help.
 
+<img src="assets/divider.svg" width="100%" alt="">
+
 ## 🧰 Tools
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![GTK](https://img.shields.io/badge/-GTK4-4A86CF?logo=gtk&logoColor=white)
-![Flatpak](https://img.shields.io/badge/-Flatpak-4A90D9?logo=flatpak&logoColor=white)
-![Arch](https://img.shields.io/badge/-Arch%20Linux-1793D1?logo=archlinux&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-0D0F14?style=flat-square&logo=python&logoColor=00C8D6&labelColor=0D0F14)
+![GTK](https://img.shields.io/badge/-GTK4-0D0F14?style=flat-square&logo=gtk&logoColor=00C8D6)
+![Flatpak](https://img.shields.io/badge/-Flatpak-0D0F14?style=flat-square&logo=flatpak&logoColor=00C8D6)
+![Arch](https://img.shields.io/badge/-Arch%20Linux-0D0F14?style=flat-square&logo=archlinux&logoColor=00C8D6)
+![Node.js](https://img.shields.io/badge/-Node.js-0D0F14?style=flat-square&logo=nodedotjs&logoColor=00C8D6)
+![Flutter](https://img.shields.io/badge/-Flutter-0D0F14?style=flat-square&logo=flutter&logoColor=00C8D6)
 
 **Setup:** CachyOS · Hyprland · Ghostty
+
+<img src="assets/divider.svg" width="100%" alt="">
+
 
 <p align="center"><i>If ProtonMD saves you an evening of debugging, a ⭐ on the repo is the best thank-you.</i></p>
