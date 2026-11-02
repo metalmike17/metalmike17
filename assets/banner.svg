@@ -36,17 +36,12 @@
     <circle cx="150" cy="150" r="7" fill="#00C8D6" stroke="none"/>
   </g>
   <g class="m" font-size="96" font-weight="800" letter-spacing="8">
-    <text class="gl1" x="290" y="158" fill="#FF2BD6" fill-opacity=".85">MIKE-ZER0</text>
-    <text class="gl2" x="290" y="158" fill="#00C8D6" fill-opacity=".85">MIKE-ZER0</text>
-    <text x="290" y="158" fill="#F2F4F8" filter="url(#glow2)">MIKE-ZER0</text>
+    <text class="gl1" x="290" y="168" fill="#FF2BD6" fill-opacity=".85">MIKE-ZER0</text>
+    <text class="gl2" x="290" y="168" fill="#00C8D6" fill-opacity=".85">MIKE-ZER0</text>
+    <text x="290" y="168" fill="#F2F4F8" filter="url(#glow2)">MIKE-ZER0</text>
   </g>
-  <rect x="292" y="180" width="700" height="3" fill="url(#beam)"/>
-  <text class="m" x="292" y="222" font-size="22" letter-spacing="3" fill="#00C8D6"><tspan fill="#FF2BD6">&gt;</tspan> CYBERSEC <tspan fill="#FF2BD6">//</tspan> ETHICAL HACKER <tspan fill="#FF2BD6">//</tspan> PHOTOGRAPHER<tspan class="cur" fill="#00C8D6">_</tspan></text>
-  <g class="m" font-size="15" letter-spacing="2" text-anchor="middle" fill="none" stroke-width="1.5">
-    <g transform="translate(292 246)"><rect width="130" height="30" rx="4" stroke="#00C8D6"/><text x="65" y="20" fill="#00C8D6" stroke="none">CACHYOS</text></g>
-    <g transform="translate(434 246)"><rect width="130" height="30" rx="4" stroke="#FF2BD6"/><text x="65" y="20" fill="#FF2BD6" stroke="none">PENTESTER</text></g>
-    <g transform="translate(576 246)"><rect width="210" height="30" rx="4" stroke="#00C8D6"/><text x="105" y="20" fill="#00C8D6" stroke="none">BUILDING PROTONMD</text></g>
-  </g>
+  <rect x="292" y="192" width="700" height="3" fill="url(#beam)"/>
+  <text class="m" x="292" y="238" font-size="22" letter-spacing="3" fill="#00C8D6"><tspan fill="#FF2BD6">&gt;</tspan> CYBERSEC <tspan fill="#FF2BD6">//</tspan> ETHICAL HACKER <tspan fill="#FF2BD6">//</tspan> PHOTOGRAPHER<tspan class="cur" fill="#00C8D6">_</tspan></text>
   <rect width="1280" height="300" fill="url(#scan)"/>
   <rect class="sweep" width="1280" height="3" fill="#00C8D6" fill-opacity=".55" filter="url(#glow2)"/>
   <rect x="1" y="1" width="1278" height="298" fill="none" stroke="#00C8D6" stroke-opacity=".35"/>
