@@ -6,15 +6,16 @@
 
 <img alt="CachyOS" src="https://img.shields.io/badge/CachyOS-daily%20driver-00C8D6?style=for-the-badge&labelColor=0D0F14&logo=archlinux&logoColor=white">
 <img alt="Location" src="https://img.shields.io/badge/Wilmington%2C%20NC-FF2BD6?style=for-the-badge&labelColor=0D0F14&logo=googlemaps&logoColor=white">
-<a href="https://github.com/metalmike17?tab=repositories"><img alt="Repos" src="https://img.shields.io/badge/open%20source-3%20projects-00C8D6?style=for-the-badge&labelColor=0D0F14"></a>
+<a href="https://github.com/metalmike17?tab=repositories"><img alt="Repos" src="https://img.shields.io/badge/open%20source-4%20projects-00C8D6?style=for-the-badge&labelColor=0D0F14"></a>
 
 <br><br>
 
 ### 🚀 Projects
 
-<a href="https://github.com/metalmike17/Ghostwire-OSINT"><img src="assets/card-ghostwire.svg" width="32%" alt="GHOSTWIRE"></a>
-<a href="https://github.com/metalmike17/protonmd"><img src="assets/card-protonmd.svg" width="32%" alt="ProtonMD"></a>
-<a href="https://github.com/metalmike17/termanim"><img src="assets/card-termanim.svg" width="32%" alt="termanim"></a>
+<a href="https://github.com/metalmike17/Ghostwire-OSINT"><img src="assets/card-ghostwire.svg" width="24%" alt="GHOSTWIRE"></a>
+<a href="https://github.com/metalmike17/protonmd"><img src="assets/card-protonmd.svg" width="24%" alt="ProtonMD"></a>
+<a href="https://github.com/metalmike17/termanim"><img src="assets/card-termanim.svg" width="24%" alt="termanim"></a>
+<a href="https://github.com/metalmike17/whyslow"><img src="assets/card-whyslow.svg" width="24%" alt="WhySlow"></a>
 
 </div>
 
@@ -109,6 +110,31 @@ summons a drop-down terminal with the same animations.
 - 📦 Available as a release tarball and an **AUR** package (`PKGBUILD` included)
 
 **[⬇️ Get termanim](https://github.com/metalmike17/termanim/releases/latest)**
+
+<img src="assets/divider.svg" width="100%" alt="">
+
+## ⏱️ WhySlow
+
+<p>
+  <a href="https://github.com/metalmike17/whyslow/releases/latest"><img alt="WhySlow" src="https://img.shields.io/github/v/release/metalmike17/whyslow?style=for-the-badge&labelColor=0D0F14&color=FF2BD6&label=WhySlow"></a>
+  <img alt="License" src="https://img.shields.io/badge/license-GPL--3.0-00C8D6?style=for-the-badge&labelColor=0D0F14">
+</p>
+
+**[WhySlow](https://github.com/metalmike17/whyslow)** answers the question every Linux user asks: *why did my PC just
+stutter?* It records a few seconds of system health every second, and when something feels slow it names the
+program responsible, says what that program is, and what to do about it.
+
+<p align="center">
+  <a href="https://github.com/metalmike17/whyslow"><img src="https://raw.githubusercontent.com/metalmike17/whyslow/main/docs/screenshot.png" width="620" alt="WhySlow explaining a CPU slowdown"></a>
+</p>
+
+- ✅ **Black box**: explains a freeze or crash even after a hard reset
+- ✅ **Game stutter**: lines MangoHud frame times up with what the system was doing
+- ✅ **Hardware gotchas, laptop battery drain and slow boot**, each with the evidence behind the answer
+- ✅ **Shareable report** with your username, paths and drive names removed; nothing is uploaded
+- ✅ Packages for **Fedora, Arch and Debian/Ubuntu**, plus an **AppImage**
+
+**[⬇️ Get WhySlow](https://github.com/metalmike17/whyslow/releases/latest)**
 
 <img src="assets/divider.svg" width="100%" alt="">
 
