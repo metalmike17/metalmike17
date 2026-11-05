@@ -6,18 +6,46 @@
 
 <img alt="CachyOS" src="https://img.shields.io/badge/CachyOS-daily%20driver-00C8D6?style=for-the-badge&labelColor=0D0F14&logo=archlinux&logoColor=white">
 <img alt="Location" src="https://img.shields.io/badge/Wilmington%2C%20NC-FF2BD6?style=for-the-badge&labelColor=0D0F14&logo=googlemaps&logoColor=white">
-<a href="https://github.com/metalmike17?tab=repositories"><img alt="Repos" src="https://img.shields.io/badge/open%20source-4%20projects-00C8D6?style=for-the-badge&labelColor=0D0F14"></a>
+<a href="https://github.com/metalmike17?tab=repositories"><img alt="Repos" src="https://img.shields.io/badge/open%20source-5%20projects-00C8D6?style=for-the-badge&labelColor=0D0F14"></a>
 
 <br><br>
 
 ### 🚀 Projects
 
-<a href="https://github.com/metalmike17/Ghostwire-OSINT"><img src="assets/card-ghostwire.svg" width="24%" alt="GHOSTWIRE"></a>
-<a href="https://github.com/metalmike17/protonmd"><img src="assets/card-protonmd.svg" width="24%" alt="ProtonMD"></a>
-<a href="https://github.com/metalmike17/termanim"><img src="assets/card-termanim.svg" width="24%" alt="termanim"></a>
-<a href="https://github.com/metalmike17/whyslow"><img src="assets/card-whyslow.svg" width="24%" alt="WhySlow"></a>
+<a href="https://github.com/metalmike17/diskmd"><img src="assets/card-diskmd.svg" width="19%" alt="DiskMD"></a>
+<a href="https://github.com/metalmike17/Ghostwire-OSINT"><img src="assets/card-ghostwire.svg" width="19%" alt="GHOSTWIRE"></a>
+<a href="https://github.com/metalmike17/protonmd"><img src="assets/card-protonmd.svg" width="19%" alt="ProtonMD"></a>
+<a href="https://github.com/metalmike17/termanim"><img src="assets/card-termanim.svg" width="19%" alt="termanim"></a>
+<a href="https://github.com/metalmike17/whyslow"><img src="assets/card-whyslow.svg" width="19%" alt="WhySlow"></a>
 
 </div>
+
+<img src="assets/divider.svg" width="100%" alt="">
+
+## 💽 DiskMD
+
+<p>
+  <a href="https://github.com/metalmike17/diskmd/releases/latest"><img alt="DiskMD" src="https://img.shields.io/github/v/release/metalmike17/diskmd?style=for-the-badge&labelColor=0D0F14&color=FF2BD6&label=DiskMD"></a>
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-00C8D6?style=for-the-badge&labelColor=0D0F14">
+  <a href="https://github.com/metalmike17/diskmd/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/metalmike17/diskmd?style=for-the-badge&labelColor=0D0F14&color=FF2BD6"></a>
+</p>
+
+**Is your drive about to die? Find out in plain English.** **[DiskMD](https://github.com/metalmike17/diskmd)** reads the
+SMART data from every SSD, NVMe and hard drive in your PC (USB enclosures included), and tells you what it means:
+healthy, watch it, back up now. No `smartctl` flags and no cryptic attribute tables.
+
+<p align="center">
+  <a href="https://github.com/metalmike17/diskmd"><img src="https://raw.githubusercontent.com/metalmike17/diskmd/main/docs/screenshot.png" width="620" alt="DiskMD checking four drives"></a>
+</p>
+
+- ✅ **CLI and a cyberpunk GUI**, with wear, temperature, life left and trend charts per drive
+- ✅ Catches **slow links** (an SSD stuck on USB 2.0, an NVMe running at x2) and **kernel I/O errors**
+- ✅ **Speed test** with KDiskMark's profiles, SMART **self-tests** and **daily alerts**
+- ✅ **Used-drive check** that spots drives with altered SMART history before you buy
+- ✅ **Shareable report** with serial numbers removed; nothing is uploaded
+- 📦 **AppImage**, **Fedora (rpm)**, **Debian/Ubuntu (deb)** and **Arch (PKGBUILD)**
+
+**[⬇️ Download DiskMD](https://github.com/metalmike17/diskmd/releases/latest)**
 
 <img src="assets/divider.svg" width="100%" alt="">
 
@@ -152,4 +180,4 @@ program responsible, says what that program is, and what to do about it.
 <img src="assets/divider.svg" width="100%" alt="">
 
 
-<p align="center"><i>If ProtonMD saves you an evening of debugging, a ⭐ on the repo is the best thank-you.</i></p>
+<p align="center"><i>If DiskMD or ProtonMD saves you an evening of debugging, a ⭐ on the repo is the best thank-you.</i></p>
