@@ -72,7 +72,7 @@ Each fix is easy once you know it. Finding it is the hard part, so I'm building 
 ## 🔧 ProtonMD
 
 <p>
-  <a href="https://github.com/metalmike17/protonmd"><img alt="ProtonMD" src="https://img.shields.io/badge/ProtonMD-v0.1.1-FF2BD6?style=for-the-badge&labelColor=0D0F14"></a>
+  <a href="https://github.com/metalmike17/protonmd"><img alt="ProtonMD" src="https://img.shields.io/github/v/release/metalmike17/protonmd?style=for-the-badge&labelColor=0D0F14&color=FF2BD6&label=ProtonMD"></a>
   <img alt="License" src="https://img.shields.io/badge/license-GPL--3.0-00C8D6?style=for-the-badge&labelColor=0D0F14">
 </p>
 
